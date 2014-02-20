@@ -10,4 +10,4 @@ Child Theme for [Autochrome Wordpress Theme](http://theme6.com/autochrome/).
 * Visit [Autochrome](http://theme6.com/autochrome/) Page
 * View [Demo](http://demo-wp.theme6.com/autochrome/)
 
-- [Theme6](http://theme6.com/)
+[Theme6](http://theme6.com/)
