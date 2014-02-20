@@ -11,11 +11,11 @@ If you're planning to customize the theme, it is best to use a [Child Theme](htt
 
 This will also help you upgrade to newer version of the Parent Theme. Just replace the old files and continue to make changes to your child theme.
 
-## Autochrome WordPress Theme
+### Autochrome WordPress Theme
 
 > Autochrome is a minimal, photography WordPress theme with special attention to your photos.
 
 * Visit [Autochrome](http://theme6.com/autochrome/) Page
 * View [Demo](http://demo-wp.theme6.com/autochrome/)
 
-[Theme6](http://theme6.com/)
+With love from [Theme6](http://theme6.com/)
