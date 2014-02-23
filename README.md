@@ -3,7 +3,7 @@ Autochrome Child
 
 Child Theme for [Autochrome Wordpress Theme](http://theme6.com/autochrome/).
 
-Download [Autochrome Child Theme](http://downloads.theme6.com/autochrome-child.zip) (zip).
+Download [Autochrome Child Theme](https://github.com/theme6/autochrome-child/archive/master.zip) (zip).
 
 ### Why a Child Theme?
 
